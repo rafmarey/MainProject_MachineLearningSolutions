@@ -7,7 +7,7 @@ To run the codes from the reinforcement learning section, you would need to run 
 pip install gym numpy
 pip install gym
 
-#Contents of the repository
+#Content of the repository
 
 The initial proposal of the project is in the file 'Project Proposal'
 
